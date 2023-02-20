@@ -1,3 +1,7 @@
+# Fork's reasoning
+
+My fork of JB-research's AntiCopyPaster repo, on the pretenses of being a core developer
+
 # AntiCopyPaster
 
 AntiCopyPaster is a plugin for IntelliJ IDEA that tracks the copying and pasting carried out by the developer and suggests extracting duplicates into a new method as soon as they are introduced in the code.
